@@ -1,16 +1,23 @@
-### Hi there 👋
+![Colorful Business Data General Linkedin Banner](https://user-images.githubusercontent.com/31384539/122331119-f1258280-cf51-11eb-9196-caa1a452942c.png)
+# Hi there 👋, I,am Saurabh
 
-<!--
-**OfficialSaurabh/OfficialSaurabh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### #Student, #Developer, #Designer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+
+- 🔭 I’m currently pursuing B.Tech in CSE !
+- 🌱 I’m currently learning new skills
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## 📝 GITHUB STATS
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OfficialSaurabh&show_icons=true&theme=radical)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=OfficialSaurabh&show_icons=true&theme=radical) 
+
+ 
+
+![Profile views](https://gpvc.arturio.dev/OfficialSaurabh)  
+
+
