@@ -10,7 +10,7 @@
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [hmsaurabhkr@gmail.com](mailto:hmsaurabhkr@gmail.com)
-* 🚀  I'm currently working on [MyRevue](http://myrevue.app)
+
 
 <a href="https://www.twitter.com/i_am_saurabhraj" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/i_am_saurabhraj?logo=twitter&style=for-the-badge&color=0891b2&labelColor=181824"
